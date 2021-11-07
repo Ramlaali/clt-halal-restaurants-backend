@@ -5,7 +5,6 @@ class CreateRestaurants < ActiveRecord::Migration[6.1]
       c.string :address
       c.string :img_url
       
-
     end
   end
 end

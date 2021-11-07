@@ -15,4 +15,5 @@ end
 use Rack::JSONBodyParser
 
 run ApplicationController
+use ReviewsController
 use RestaurantsController
